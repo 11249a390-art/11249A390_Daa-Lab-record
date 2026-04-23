@@ -1,0 +1,11 @@
+RANDOMIZED QUICK SORT
+
+INPUT :
+
+Enter number of elements: 6
+Enter elements:
+10 7 8 9 1 5
+
+OUTPUT :
+     Sorted array:
+1 5 7 8 9 10
