@@ -1,0 +1,19 @@
+APPROXIMATION ALGORITHM (VECTOR COVER GREEDY)
+
+INPUT :
+Enter number of vertices: 5
+
+Enter adjacency matrix:
+0 1 1 0 0
+1 0 1 1 0
+1 1 0 0 1
+0 1 0 0 1
+0 0 1 1 0
+
+OUTPUT :
+     Vertex Cover:
+0 1
+2 4
+     
+
+
