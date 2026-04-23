@@ -1,7 +1,6 @@
 SHORTEST PATH (DIJKSTRA)
 
-AIM :
-To implement Dijkstra’s Shortest Path Algorithm to find the shortest path from a source vertex to all other vertices in aweighted graph with non-negative
+AIM :To implement Dijkstra’s Shortest Path Algorithm to find the shortest path from a source vertex to all other vertices in aweighted graph with non-negative
   edge weights.
 
 ALGORITHM :
